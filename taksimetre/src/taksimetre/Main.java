@@ -20,6 +20,6 @@ public class Main {
 		System.out.print("Ödenecek toplam tutar: " + String.format("%.2f", totalPrice));
 
 		inp.close();
-
+		
 	}
 }
