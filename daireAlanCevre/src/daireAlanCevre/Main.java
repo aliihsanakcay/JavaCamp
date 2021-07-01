@@ -21,5 +21,6 @@ public class Main {
 		
 		System.out.println("Daire diliminin alaný: " + String.format("%.3f", area));
 		
+		inp.close();
 	}
 }
