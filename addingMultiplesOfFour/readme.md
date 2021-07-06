@@ -1,0 +1,1 @@
+### Tek sayı girilene kadar kullanıcıdan girdileri alan ve girilen değerlerden 4'ün katları olan sayıları toplayıp ekrana basan program
