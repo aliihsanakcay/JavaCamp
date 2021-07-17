@@ -1,4 +1,4 @@
-## Harmonik Seri Bulan Program
+# Harmonik Seri Bulan Program
 
 Kullanıcı tarafından girilen sayının harmonik serisini bulan programdır.
 
