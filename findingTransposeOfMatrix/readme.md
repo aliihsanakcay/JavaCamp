@@ -6,7 +6,7 @@ Matrisin transpozunu (devriğini) almak, matrisin aynı numaralı satırları il
 
 Örneğin aşağıdaki 2x3’lik A matrisinin transpozu (devriği), 2x3’lük bir A^T matrisidir.
 
-![Example](https://github.com/aliihsanakcay/JavaCamp/blob/main/findHarmonicSeries/figure/formule.png)
+![Example](https://github.com/aliihsanakcay/JavaCamp/blob/main/findingTransposeOfMatrix/figure/example.PNG)
 
 **Senaryo :**
 
